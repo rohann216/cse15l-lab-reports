@@ -9,7 +9,7 @@
 - The home screen should look like this:
 ![vscodehomescreen](/images/vscodedownload.png)
 
-## Step 3: Remote Connection
+## Step 3: Remote Connection via SSH 
 - [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Open up git bash in your vscode terminal(CTRL + `)
 - Recall your course specfic account name (ACCOUNT_NAME we will call it) from step 1 (looks like this: cs15lwi23zz)
