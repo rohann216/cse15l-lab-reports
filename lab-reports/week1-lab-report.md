@@ -6,8 +6,8 @@
 
 ## Step 2: Visual Studio Code
 - [Download VSCODE](https://code.visualstudio.com/download)
-- The home screen should look like this:
-![vscodehomescreen](/images/vscodedownload.png)
+- The home screen should look like this: <br>
+![vscodehomescreen](./images/vscodedownload.png)
 
 ## Step 3: Remote Connection via SSH 
 - [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -17,13 +17,13 @@
 - Enter yes if asked for continued conection confirmation
 - Input the new password you created in step 1 once prompted 
 - You should see this once the Secure Shell connection is complete:
-![ucsdsshconnection](/images/sshconnectionsuccess.png)
+![ucsdsshconnection](./images/sshconnectionsuccess.png)
 
 ## Step 4: Try Some Commands!
 - Now that you're connected, lets try some git bash commands 
 - Here is an example of commands -pwd and -ls being used: 
-![examplebashcommands](/images/gitbashcommands.png)
+![examplebashcommands](./images/gitbashcommands.png)
 - Here are even more commands to try(courtesy of [official tutorial](https://ucsd-cse15l-w23.github.io/week/week1/#part-3--visual-studio-code)!
-![morecommands](/images/morebashcommands.png)
+![morecommands](./images/morebashcommands.png)
 
 <p style="text-align: center; font-style: italic;">You are now good to go!</p>
