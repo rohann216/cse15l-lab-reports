@@ -25,3 +25,5 @@
 ![examplebashcommands](/images/gitbashcommands.png)
 - Here are even more commands to try(courtesy of [official tutorial](https://ucsd-cse15l-w23.github.io/week/week1/#part-3--visual-studio-code)!
 ![morecommands](/images/morebashcommands.png)
+
+<p style="text-align: center; font-style: italic;">You are now good to go!</p>
