@@ -63,15 +63,15 @@ class StringServer {
 # Part 2: Debugging
 ## Failure and Non-Failure Incuding Inputs (via JUnit tests)
 ```java 
-	@Test 
-	public void testReverseInPlace() {
+  @Test 
+  public void testReverseInPlace() {
     int[] input1 = { 3 };
     int[] input2 = {5, 4, 3};
     ArrayExamples.reverseInPlace(input1);
     ArrayExamples.reverseInPlace(input2);
     assertArrayEquals(new int[]{ 3 }, input1);
     assertArrayEquals(new int[]{3, 4, 5}, input2);
-	}
+  }
 
 
   @Test
